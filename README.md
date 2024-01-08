@@ -6,9 +6,6 @@
 
 # Table of Contents
 
-* Week 1
-  * Day 1
+
   * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-2. Item Two
-3. Item Three
